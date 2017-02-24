@@ -1,0 +1,22 @@
+{
+    "language": {
+      "language": "tamil",
+      "language-code": "en-US",
+    "phrases" : {
+      "home" : "முன்",
+      "future" : "எதிர",
+      "live" : "வாழ",
+      "auction" : "",
+      "s" : "",
+      "closed" : "மூடப்பட்டது",
+      "winner" : "வெற்றி",
+      "blog" : "வலைப்பதிவு",
+      "deposit" : "வைப்பு",
+      "register" : "பதிவு",
+      "log_in" : "உள்நுழைவு", 
+      "buynow" : "இப்பவாங்க", 
+      "welcome" : "வணக்கம்",
+      "all_categories" : "All Categories"   
+    }
+  }
+}  

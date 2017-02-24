@@ -1,0 +1,27 @@
+{
+	"language": {
+		"language": "English",
+		"language-code": "en-US",
+		"phrases": {
+			"home": "Home",
+			"future": "Future",
+			"live": "Live",
+			"auction": "Auction",
+			"s": "s",
+			"closed": "Closed",
+			"winner": "Winner",
+			"blog": "Blog",
+			"deposit": "Deposit",
+			"register": "Register",
+			"log_in": "Login",
+			"buy_now": "Buy Now",
+			"allcategories": "All Categroies",
+			"dashboard": "Dashboard",
+			"search": "Search",
+			"welcome": "Welcome",
+			"all_categories": "All Categories",
+			"a": "sadasd",
+      "b": "wat a karuvad"
+		}
+	}
+}
